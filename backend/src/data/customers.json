@@ -1,6 +1,6 @@
 [
   {
-    "photo": "https://i.imgur.com/1As0akH.png1",
+    "image": "https://i.imgur.com/1As0akH.png1",
     "name": "Nadia Ivanova",
     "email": "nadia.ivanova@gmail.com",
     "spent": "2,300.50",
@@ -90,7 +90,7 @@
     "register_date": "Mar 10, 2024"
   },
   {
-    "photo": "https://i.imgur.com/hz6bZkb.png",
+    "image": "https://i.imgur.com/hz6bZkb.png",
     "name": "Mykola Voloshyn",
     "email": "mykola.voloshyn@gmail.com",
     "spent": "2,300.50",
@@ -180,7 +180,7 @@
     "register_date": "Mar 20, 2024"
   },
   {
-    "photo": "https://i.imgur.com/1As0akH.png1",
+    "image": "https://i.imgur.com/1As0akH.png1",
     "name": "Yaroslav Kovalchuk",
     "email": "yaroslav.kovalchuk@gmail.com",
     "spent": "2,300.50",
@@ -270,7 +270,7 @@
     "register_date": "Feb 29, 2024"
   },
   {
-    "photo": "https://i.imgur.com/1As0akH.png1",
+    "image": "https://i.imgur.com/1As0akH.png1",
     "name": "Nadia Ivanova IV",
     "email": "nadia.ivanova@gmail.com",
     "spent": "2,890.50",
@@ -423,7 +423,7 @@
     "register_date": "Dec 20, 2023"
   },
   {
-    "photo": "https://i.imgur.com/1As0akH.png1",
+    "image": "https://i.imgur.com/1As0akH.png1",
     "name": "Yaroslav Kovalchuk IV",
     "email": "yaroslav.kovalchuk@gmail.com",
     "spent": "2,150.50",
@@ -495,7 +495,7 @@
     "register_date": "Dec 28, 2023"
   },
   {
-    "photo": "https://i.imgur.com/1As0akH.png1",
+    "image": "https://i.imgur.com/1As0akH.png1",
     "name": "Nadia Ivanova III",
     "email": "nadia.ivanova@gmail.com",
     "spent": "2,300.50",
@@ -585,7 +585,7 @@
     "register_date": "Aug 10, 2023"
   },
   {
-    "photo": "https://i.imgur.com/hz6bZkb.png",
+    "image": "https://i.imgur.com/hz6bZkb.png",
     "name": "Mykola Voloshyn III",
     "email": "mykola.voloshyn@gmail.com",
     "spent": "2,300.50",
@@ -621,7 +621,7 @@
     "register_date": "Aug 14, 2023"
   },
   {
-    "photo": "https://i.imgur.com/1As0akH.png1",
+    "image": "https://i.imgur.com/1As0akH.png1",
     "name": "Nadia Ivanova IV II",
     "email": "nadia.ivanova@gmail.com",
     "spent": "2,890.50",
@@ -711,7 +711,7 @@
     "register_date": "Mar 10, 2024"
   },
   {
-    "photo": "https://i.imgur.com/hz6bZkb.png",
+    "image": "https://i.imgur.com/hz6bZkb.png",
     "name": "Mykola Voloshyn II",
     "email": "mykola.voloshyn@gmail.com",
     "spent": "2,300.50",
